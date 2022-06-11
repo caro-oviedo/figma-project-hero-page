@@ -1,3 +1,3 @@
 # figma-project-hero-page
 
-<img href="img/hero.png">
+<img src="img/hero.png" width: 500px height: auto>
