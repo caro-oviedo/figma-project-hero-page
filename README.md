@@ -1,4 +1,4 @@
-# Figma Project Hero Page[image](https://caro-oviedo.github.io/figma-project-hero-page/)
+# [Figma Project Hero Page](https://caro-oviedo.github.io/figma-project-hero-page/)
 
 
 <img src="img/figmahero.png" width="700px" height="auto">
